@@ -8,7 +8,7 @@ This repository contains my personal portfolio website showcasing my projects, b
 
 ## Demo
 
-Live demo: <!-- Add live demo URL here, e.g. https://your-domain.com -->
+Live demo: https://sachindastureportfolio.vercel.app/
 
 ## Features
 
@@ -18,15 +18,16 @@ Live demo: <!-- Add live demo URL here, e.g. https://your-domain.com -->
 - Contact form or contact details
 - Resume / CV download
 
-## Tech Stack
+<!--## Tech Stack
 
-- [Add your tech stack here — e.g. React, Next.js, Vite, Tailwind CSS, HTML/CSS, JavaScript, TypeScript, Node.js]
+- [Add your tech stack here — e.g. React, Next.js, Vite, Tailwind CSS, HTML/CSS, JavaScript, TypeScript, Node.js]-->
 
 ## Screenshot
 
 Replace the image at `assets/screenshot.png` with a real screenshot of your site or remove this section.
 
-![Screenshot](assets/screenshot.png)
+![Screenshot] <img width="1898" height="902" alt="Portfolio" src="https://github.com/user-attachments/assets/1582bcc5-0027-4821-aac0-085168f27625" />
+
 
 ## Getting Started (Generic)
 
@@ -54,12 +55,12 @@ npm run dev
 npm run build
 ```
 
-## Projects
+<!--## Projects
 
 List and link your highlighted projects here. Example:
 
-- Project One — Short description. (link)
-- Project Two — Short description. (link)
+<!-- Project One — Short description. (link)
+- Project Two — Short description. (link)-->
 
 ## Deployment
 
@@ -76,7 +77,7 @@ MIT © DastureSachin
 ## Contact
 
 - GitHub: https://github.com/DastureSachin
-- Email: <!-- add email if you want -->
+- Email: sachindasture1252@gmail.com
 
 ---
 
