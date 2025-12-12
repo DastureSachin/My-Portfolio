@@ -23,8 +23,6 @@ Live demo: https://sachindastureportfolio.vercel.app/
 - [Add your tech stack here — e.g. React, Next.js, Vite, Tailwind CSS, HTML/CSS, JavaScript, TypeScript, Node.js]-->
 
 ## Screenshot
-
-Replace the image at `assets/screenshot.png` with a real screenshot of your site or remove this section.
 <img width="1898" height="902" alt="Portfolio" src="https://github.com/user-attachments/assets/1582bcc5-0027-4821-aac0-085168f27625" />
 
 
